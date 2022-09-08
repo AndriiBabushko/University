@@ -1,0 +1,4 @@
+git config --global user.name "Andrey Babushko"
+git config --global user.email vt211_bas@student.ztu.edu.ua 
+echo **/obj/**>> .gitignore
+echo **/bin/**>> .gitignore
