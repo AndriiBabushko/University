@@ -1,0 +1,11 @@
+﻿  Lab5.cpp
+D:\Політех\ОП\Lab4\Lab5\Lab5\Lab5.cpp(49,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Політех\ОП\Lab4\Lab5\Lab5\Lab5.cpp(53,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Політех\ОП\Lab4\Lab5\Lab5\Lab5.cpp(57,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Політех\ОП\Lab4\Lab5\Lab5\Lab5.cpp(67,35): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Політех\ОП\Lab4\Lab5\Lab5\Lab5.cpp(71,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Політех\ОП\Lab4\Lab5\Lab5\Lab5.cpp(75,36): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Політех\ОП\Lab4\Lab5\Lab5\Lab5.cpp(85,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Політех\ОП\Lab4\Lab5\Lab5\Lab5.cpp(89,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\Політех\ОП\Lab4\Lab5\Lab5\Lab5.cpp(93,33): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Lab5.vcxproj -> D:\Політех\ОП\Lab4\Lab5\Debug\Lab5.exe

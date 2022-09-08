@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be1f0bb0-10d7-47ab-9d64-b0db4a6d31a0": {
+      "ProjectGuid": "be1f0bb0-10d7-47ab-9d64-b0db4a6d31a0",
+      "DisplayName": "Practice()",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
